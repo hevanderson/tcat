@@ -1,0 +1,27 @@
+/* 
+    Document   : styles
+    Created on : 23/06/2013, 16:23:01
+    Author     : Hevanderson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#task {
+    width: 250px;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+#task #step {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+#results{
+    color: red;
+}
+
